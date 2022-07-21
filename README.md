@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aminjon015 , was born in Uzbekistan.  
-- 👀 I’m interested in programming and studied course of Java, C++. 
+- 👀 I’m interested in programming and studied course of Java, C++, Python. 
 - 🌱 I’m currently learning Java programming language.
 - 💞️ I’m looking to collaborate on learning any knowledge of programming language.
 - 📫 You can reach me on my Gmail : x.aminjon@gmail.com or my whatsapp number.
